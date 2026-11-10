@@ -1,8 +1,4 @@
-# questbg
-
-Modulo instalado como mod-pvp-battleground-quests. Repositorio: https://github.com/carlitos022/questbg
-
-La [GUIA_DE_USO.md](GUIA_DE_USO.md) detalla cada mision, sus recompensas, CrossFaction BG y la verificacion de puntos de arena.
+# mod-pvp-battleground-quests
 
 Motor de misiones para AzerothCore 3.3.5a. Codigo independiente en modules; no modifica archivos del core.
 

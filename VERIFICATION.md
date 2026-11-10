@@ -68,4 +68,4 @@ data/sql/db-world/quests_and_npc.sql contiene el NPC y spawns idempotentes.
 tests/pvp_bg_quests_test.go contiene la suite reproducible; copiarla a e2e/local/legends/pvp_bg_quests del core.
 La suite localiza el spawn del NPC por entrada/mapa, sin depender del GUID de Carlitos.
 
-Destino de publicacion designado: https://github.com/carlitos022/questbg. Ver GUIA_DE_USO.md para la comprobacion adicional del saldo de 225 puntos de arena y las instrucciones por mision.
+La publicacion en GitHub aun requiere identificar la URL del repositorio destino y disponer de acceso autenticado.
